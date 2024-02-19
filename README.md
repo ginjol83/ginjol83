@@ -24,13 +24,13 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ### ✍ Blog
 
-Comparto mis conocimientos y experiencias en mi blog, tratando temas como reparación de tablas con MySQL, inicio de proyectos con Ionic, y más. ¡Visítalo para aprender juntos! [Andrés Giménez Blog](https://www.andresgimenez.es/)
+Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL, Ionic, informática retro y más. ¡Visítalo para aprender juntos! [Andrés Giménez Blog](https://www.andresgimenez.es/)
 
 ### 📫 Contacto
 
 Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 
-- **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenez)]
+- **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenezperales)]
 - **GitHub:** [@agimenez122](https://github.com/agimenez122)
 - **Correo Electrónico:** agimenezing@gmail.com
 
