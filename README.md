@@ -9,18 +9,18 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 ### 🌟 Especialidades
 
 - Actualmente estoy aprendiendo Javascript.
-- Actualmente estoy trabajando en el desarrollo de juegos en plataformas antiguas (Spectrum, Gameboy ...).
-- Desarrollo de Aplicaciones Móviles
+- Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... (Como afición obviamente) 
+- Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
 
 
 ### 🚀 Proyectos Destacados
 
-- starcombat: Un juego para Game Boy escrito en C en 2021. 
-- ginjol-algorithms: Una implementación de código abierto de distintos algoritmos en JavaScript. 
-- probModelXMLTester: Tester para archivos probmodel en Java. 
-- gameboy_serial_db: Un proyecto en Ionic. 
-- turismo_antella: Una aplicación guía de turismo de Antella en Ionic.
+- `starcombat`: Un juego para Game Boy escrito en C en 2021.
+- `ginjol-algorithms`: Una implementación de código abierto de distintos algoritmos en JavaScript.
+- `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED.
+- `gameboy_serial_db`: Un proyecto en Ionic que permite consultar una base de datos técnica para la consola Gameboy.
+- `turismo_antella`: Una aplicación guía de turismo para el municipio de Antella hecha en Ionic.
 
 ### ✍ Blog
 
