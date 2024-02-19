@@ -8,8 +8,8 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ### 🌟 Especialidades
 
-🌱 Actualmente estoy aprendiendo Javascript.
-🔭 Actualmente estoy trabajando en el desarrollo de juegos en plataformas antiguas (Spectrum, Gameboy ...).
+- Actualmente estoy aprendiendo Javascript.
+- Actualmente estoy trabajando en el desarrollo de juegos en plataformas antiguas (Spectrum, Gameboy ...).
 - Desarrollo de Aplicaciones Móviles
 - Manejo de Bases de Datos con MySQL
 
