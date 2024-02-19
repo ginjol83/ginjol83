@@ -16,7 +16,12 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ### 🚀 Proyectos Destacados
 
-Aquí puedes incluir una lista de tus proyectos más destacados con enlaces a los repositorios de GitHub, si están disponibles públicamente.
+- starcombat: Un juego para Game Boy escrito en C en 2021. Ver Repositorio
+- ginjol-algorithms: Una implementación de código abierto de distintos algoritmos en JavaScript. Ver Repositorio
+- probModelXMLTester: Tester para archivos probmodel en Java. Ver Repositorio
+- gameboy_serial_db: Un proyecto en TypeScript. Ver Repositorio
+- personal_web: Tu página web personal en HTML. Ver Repositorio
+- turismo_antella: Una aplicación guía de turismo de Antella en TypeScript. Ver Repositorio
 
 ### ✍ Blog
 
