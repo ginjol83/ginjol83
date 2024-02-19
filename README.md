@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/agimenez122/agimenez122/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
+
 <!--
 **agimenez122/agimenez122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
