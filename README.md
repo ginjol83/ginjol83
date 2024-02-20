@@ -33,6 +33,7 @@ Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tec
 - **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenezperales)]
 - **GitHub:** [@agimenez122](https://github.com/agimenez122)
 - **Correo Electrónico:** agimenezing@gmail.com
+- **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
 
 ¡Gracias por visitar mi perfil de GitHub! 🌟
 
