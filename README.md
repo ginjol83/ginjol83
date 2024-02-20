@@ -3,6 +3,10 @@
 ![image](https://github.com/agimenez122/agimenez122/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
 
 [![Twitter: @andresgimpe](https://img.shields.io/badge/Twitter-%40andresgimpe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/andresgimpe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20de%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andresgimenezperales)
+[![GitHub: @agimenez122](https://img.shields.io/badge/GitHub-%40agimenez122-black?style=flat&logo=github)](https://github.com/agimenez122)
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-agimenezing%40gmail.com-important?style=flat)](mailto:agimenezing@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-Perfil%20en%20itch.io-orange?style=flat)](https://ginjol.itch.io)
 
 
 ## Ingeniero Informático 💻
