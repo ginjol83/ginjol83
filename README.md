@@ -2,6 +2,9 @@
 
 ![image](https://github.com/agimenez122/agimenez122/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
 
+[![Twitter: @andresgimpe](https://img.shields.io/badge/Twitter-%40andresgimpe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/andresgimpe)
+
+
 ## Ingeniero Informático 💻
 
 Apasionado por la tecnología y el desarrollo de software, me especializo en crear soluciones innovadoras que facilitan la vida de las personas y mejoran los procesos empresariales. Con una sólida base en ingeniería informática, exploro constantemente nuevas tecnologías y metodologías para seguir avanzando en este campo dinámico.
