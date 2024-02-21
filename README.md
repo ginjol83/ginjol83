@@ -4,7 +4,6 @@
 
 [![Twitter: @andresgimpe](https://img.shields.io/badge/Twitter-%40andresgimpe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/andresgimpe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20de%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andresgimenezperales)
-[![GitHub: @agimenez122](https://img.shields.io/badge/GitHub-%40agimenez122-black?style=flat&logo=github)](https://github.com/agimenez122)
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-agimenezing%40gmail.com-important?style=flat)](mailto:agimenezing@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-Perfil%20en%20itch.io-orange?style=flat)](https://ginjol.itch.io)
 
@@ -38,7 +37,6 @@ Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL,
 Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 
 - **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenezperales)]
-- **GitHub:** [@agimenez122](https://github.com/agimenez122)
 - **Correo Electrónico:** agimenezing@gmail.com
 - **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
 
