@@ -14,7 +14,7 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ### 🌟 Especialidades
 
-- Actualmente estoy aprendiendo Javascript.
+- Actualmente estoy trabajando en Javascript con NodeJS.
 - Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... (Como afición obviamente) 
 - Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
@@ -23,10 +23,11 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 ### 🚀 Proyectos Destacados
 
 - `starcombat`: Un juego para Game Boy escrito en C en 2021.
-- `ginjol-algorithms`: Una implementación de código abierto de distintos algoritmos en JavaScript.
-- `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED.
-- `gameboy_serial_db`: Un proyecto en Ionic que permite consultar una base de datos técnica para la consola Gameboy.
-- `turismo_antella`: Una aplicación guía de turismo para el municipio de Antella hecha en Ionic.
+- `ginjol-algorithms`: Una implementación de código abierto de distintos algoritmos en JavaScript, que esta como libreria para su descarga en npm.
+- `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
+- `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores..
+- `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos..
+- Smartenergy: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
 
 ### ✍ Blog
 
