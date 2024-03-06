@@ -27,7 +27,7 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 - `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
 - `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores..
 - `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos..
-- Smartenergy: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
+- `Smartenergy`: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
 
 ### ✍ Blog
 
