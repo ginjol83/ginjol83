@@ -21,11 +21,11 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ## Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122)
 
 ## Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact)
 
 ### 🚀 Proyectos Destacados
 
