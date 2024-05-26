@@ -27,10 +27,10 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 - `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos.
 - `Smartenergy`: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
 
-### ✍ Blog
+<!-- ### ✍ Blog
 
 Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL, Ionic, informática retro y más. ¡Visítalo para aprender juntos! [Andrés Giménez Blog](https://www.andresgimenez.es/)
-
+-->
 ### 📫 Contacto
 
 Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
