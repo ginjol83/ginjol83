@@ -39,11 +39,11 @@ Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tec
 - **Correo Electrónico:** agimenezing@gmail.com
 - **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
 
-## Mis estadísticas de GitHub
+### Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
 
-## Lenguajes más utilizados
+### Lenguajes más utilizados
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
 
