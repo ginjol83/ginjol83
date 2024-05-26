@@ -19,6 +19,13 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 - Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
 
+## Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario)
+
+## Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)
 
 ### 🚀 Proyectos Destacados
 
