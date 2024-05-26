@@ -30,7 +30,19 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 <!-- ### ✍ Blog
 
 Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL, Ionic, informática retro y más. ¡Visítalo para aprender juntos! [Andrés Giménez Blog](https://www.andresgimenez.es/)
+
+
+
+### Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
 -->
+### Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
+
+¡Gracias por visitar mi perfil de GitHub! 🌟
+
 ### 📫 Contacto
 
 Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
@@ -38,17 +50,6 @@ Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tec
 - **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenezperales)]
 - **Correo Electrónico:** agimenezing@gmail.com
 - **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
-
-### Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
-
-### Lenguajes más utilizados
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
-
-¡Gracias por visitar mi perfil de GitHub! 🌟
-
 <!--
 **agimenez122/agimenez122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
