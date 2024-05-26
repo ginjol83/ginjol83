@@ -7,7 +7,6 @@
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-agimenezing%40gmail.com-important?style=flat)](mailto:agimenezing@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-Perfil%20en%20itch.io-orange?style=flat)](https://ginjol.itch.io)
 
-
 ## Ingeniero Informático 💻
 
 Apasionado por la tecnología y el desarrollo de software, me especializo en crear soluciones innovadoras que facilitan la vida de las personas y mejoran los procesos empresariales. Con una sólida base en ingeniería informática, exploro constantemente nuevas tecnologías y metodologías para seguir avanzando en este campo dinámico.
@@ -19,21 +18,13 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 - Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
 
-### Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122)
-
-### Lenguajes más utilizados
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact)
-
 ### 🚀 Proyectos Destacados
 
 - `starcombat`: Un juego para Game Boy escrito en C en 2021.
 - `ginjol-algorithms`: Una implementación de código abierto de distintos algoritmos en JavaScript, que esta como libreria para su descarga en npm.
 - `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
-- `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores..
-- `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos..
+- `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores.
+- `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos.
 - `Smartenergy`: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
 
 ### ✍ Blog
@@ -47,6 +38,14 @@ Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tec
 - **LinkedIn:** [[Perfil de LinkedIn](https://www.linkedin.com/in/andresgimenezperales)]
 - **Correo Electrónico:** agimenezing@gmail.com
 - **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
+
+## Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical)
+
+## Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
 
 ¡Gracias por visitar mi perfil de GitHub! 🌟
 
