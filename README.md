@@ -19,11 +19,11 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 - Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
 
-## Mis estadísticas de GitHub
+### Mis estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122)
 
-## Lenguajes más utilizados
+### Lenguajes más utilizados
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact)
 
