@@ -1,6 +1,6 @@
 # Hola, soy Andrés Giménez 👋
 
-![image](https://github.com/ginjol83/ginjol83/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
+![image](https://github.com/agimenez122/agimenez122/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
 
 [![Twitter: @andresgimpe](https://img.shields.io/badge/Twitter-%40andresgimpe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/andresgimpe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20de%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andresgimenezperales)
