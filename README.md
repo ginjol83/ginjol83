@@ -1,6 +1,6 @@
 # Hola, soy Andrés Giménez 👋
 
-![image](https://github.com/agimenez122/agimenez122/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
+![image](https://github.com/ginjol83/ginjol83/assets/23209646/371b461e-9d83-4a4b-9239-8158d9c8b9ae)
 
 [![Twitter: @andresgimpe](https://img.shields.io/badge/Twitter-%40andresgimpe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/andresgimpe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20de%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andresgimenezperales)
@@ -35,11 +35,11 @@ Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL,
 
 ### Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=agimenez122&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ginjol83&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ginjol83&layout=compact&theme=radical)
 -->
 ### Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=agimenez122&layout=compact&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ginjol83&layout=compact&theme=radical)
 
 ¡Gracias por visitar mi perfil de GitHub! 🌟
 
@@ -51,7 +51,7 @@ Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tec
 - **Correo Electrónico:** agimenezing@gmail.com
 - **itch.io:** [Perfil en itch.io](https://ginjol.itch.io)
 <!--
-**agimenez122/agimenez122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ginjol83/ginjol83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
