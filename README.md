@@ -14,9 +14,9 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 ### 🌟 Especialidades
 
 - Actualmente estoy trabajando en Javascript con NodeJS.
-- Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... (Como afición obviamente) 
 - Desarrollo de Aplicaciones Móviles con Ionic
 - Manejo de Bases de Datos con MySQL
+- Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... 
 
 ### 🚀 Proyectos Destacados
 
