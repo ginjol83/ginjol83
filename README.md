@@ -7,6 +7,8 @@
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-agimenezing%40gmail.com-important?style=flat)](mailto:agimenezing@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-Perfil%20en%20itch.io-orange?style=flat)](https://ginjol.itch.io)
 
+![image](https://www.codewars.com/users/agimenez122/badges/large)
+
 ## Ingeniero Informático 💻
 
 Apasionado por la tecnología y el desarrollo de software, me especializo en crear soluciones innovadoras que facilitan la vida de las personas y mejoran los procesos empresariales. Con una sólida base en ingeniería informática, exploro constantemente nuevas tecnologías y metodologías para seguir avanzando en este campo dinámico.
