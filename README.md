@@ -7,7 +7,7 @@
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-agimenezing%40gmail.com-important?style=flat)](mailto:agimenezing@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-Perfil%20en%20itch.io-orange?style=flat)](https://ginjol.itch.io)
 
-![image](https://www.codewars.com/users/agimenez122/badges/large)
+![image](https://www.codewars.com/users/agimenez122/badges/small)
 
 ## Ingeniero Informático 💻
 
