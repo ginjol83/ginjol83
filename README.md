@@ -15,23 +15,22 @@ Apasionado por la tecnología y el desarrollo de software, me especializo en cre
 
 ### 🌟 Especialidades
 
-- Actualmente estoy trabajando en Javascript con NodeJS.
-- Desarrollo de Aplicaciones Móviles con Ionic
-- Manejo de Bases de Datos con MySQL
+- Actualmente estoy trabajando con Java.
+- Desarrollo de Aplicaciones Móviles Java.
+- Manejo de Bases de Datos
 - Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... 
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 - `starcombat`: Un juego para Game Boy escrito en C en 2021.
-- `ginjol-algorithms`: Una implementación de código abierto de distintos algoritmos en JavaScript, que esta como libreria para su descarga en npm.
 - `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
 - `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores.
 - `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos.
-- `Smartenergy`: App Ionic, publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
+- `Smartenergy`: App Ionic (Actualmente en migracion a Java), publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
 
-<!-- ### ✍ Blog
+<!-- ### Portafolio web
 
-Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL, Ionic, informática retro y más. ¡Visítalo para aprender juntos! [Andrés Giménez Blog](https://www.andresgimenez.es/)
+Sitio web donde comparto mis proyectos personales y más. ¡Visítalo! [Andrés Giménez Blog](https://www.andresgimenez.es/)
 
 
 
@@ -41,11 +40,11 @@ Comparto mis conocimientos y experiencias en mi blog, tratando temas como MySQL,
 -->
 ### Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ginjol83&layout=compact&theme=radical)
+Java, javascript
 
-¡Gracias por visitar mi perfil de GitHub! 🌟
+¡Gracias por visitar mi perfil de GitHub! 
 
-### 📫 Contacto
+### Contacto
 
 Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 
