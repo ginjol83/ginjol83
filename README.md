@@ -11,22 +11,27 @@
 
 ## Ingeniero Informático 💻
 
-Apasionado por la tecnología y el desarrollo de software, me especializo en crear soluciones innovadoras que facilitan la vida de las personas y mejoran los procesos empresariales. Con una sólida base en ingeniería informática, exploro constantemente nuevas tecnologías y metodologías para seguir avanzando en este campo dinámico.
+Soy ingeniero informático por la UNED con más de 10 años de experiencia en el sector IT. He trabajado en empresas de consultoría y desarrollo de software en proyectos para administraciones públicas y empresas privadas, trabajando en análisis, desarrollo y mantenimiento de aplicaciones empresariales. Mi experiencia está centrada sobre todo en tecnologías Java y entornos J2EE, utilizando herramientas y frameworks como Spring Boot, Hibernate, Node.js, Maven y MySQL.
+
+Actualmente sigo ampliando conocimientos en tecnologías backend modernas, APIs REST y desarrollo web, además de dedicar tiempo a proyectos personales relacionados con programación, herramientas de desarrollo y software experimental.
+
+Me gusta desarrollar aplicaciones claras, mantenibles y funcionales, manteniendo un enfoque práctico y orientado a resolver problemas reales.
+
+Fuera del ámbito profesional, también me apasiona la informática clásica, el desarrollo de herramientas y los proyectos relacionados con retrocomputación y emulación, intereses que a menudo inspiran iniciativas personales y experimentales.
 
 ### 🌟 Especialidades
 
-- Actualmente estoy trabajando con Java.
-- Desarrollo de Aplicaciones Móviles Java.
-- Manejo de Bases de Datos
-- Desarrollo de juegos en plataformas antiguas como Spectrum, Gameboy, Atari XE, etc... 
+- Desarrollador Java con experiencia en aplicaciones de gestión y administración pública. Actualmente centrado en Java moderno, backend y aplicaciones web modernas.
+- Manejo de Bases de Datos.
+- Desarrollo de proyectos relacionados con la retrocomputación y la informática clásica
 
 ### Proyectos Destacados
 
-- `starcombat`: Un juego para Game Boy escrito en C en 2021.
-- `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov de la UNED, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
-- `ree-reporter`: Esta aplicación javascript genera informes en formato Excel con los precios de la electricidad para el mercado eléctrico español. Los informes generados se envían automáticamente por correo electrónico a una lista de suscriptores.
-- `noord-pool-extractor`: Programa hecho en javascript, diseñado para extraer datos públicos del gestor energético Nord Pool mediante web scraping, estos datos contienen información sobre el mercado energético de algunos países nórdicos.
+- `probModelXMLTester`: Tester para archivos probmodel en Java dentro del proyecto Open Markov, permite comprobar la integridad de los archivos que utiliza Open Markov para la representación de redes bayesianas.
 - `Smartenergy`: App Ionic (Actualmente en migracion a Java), publicada en la play store, se utiliza para visualizar los precios de la luz diarios, administrar notificaciones sobre variaciones de precios, etc...
+- `SamaruC`: IDE para desarrollo de software en máquinas de 8 bits. Además de editor de código, incluye emulador integrado, gestor de proyectos y sistema de compilación para múltiples plataformas clásicas.
+- `Game Boy Serial Data Base`: Aplicación web, api y base de datos, para obtener informacion técnica de una consola Game Boy mediante su numero de serie.
+- `ISS Tracker`: Aplicación Android para rastrear la Estación Espacial Internacional (ISS) en tiempo real, mostrando su ubicación en un mapa y proporcionando información sobre los próximos pases visibles desde la ubicación del usuario.
 
 <!-- ### Portafolio web
 
