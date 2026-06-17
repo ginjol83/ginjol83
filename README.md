@@ -32,20 +32,17 @@ Fuera del ámbito profesional, también me apasiona la informática clásica, el
 - `SamaruC`: IDE para desarrollo de software en máquinas de 8 bits. Además de editor de código, incluye emulador integrado, gestor de proyectos y sistema de compilación para múltiples plataformas clásicas.
 - `Game Boy Serial Data Base`: Aplicación web, api y base de datos, para obtener informacion técnica de una consola Game Boy mediante su numero de serie.
 - `ISS Tracker`: Aplicación Android para rastrear la Estación Espacial Internacional (ISS) en tiempo real, mostrando su ubicación en un mapa y proporcionando información sobre los próximos pases visibles desde la ubicación del usuario.
-
-<!-- ### Portafolio web
-
-Sitio web donde comparto mis proyectos personales y más. ¡Visítalo! [Andrés Giménez Blog](https://www.andresgimenez.es/)
+- `Portafolio web`: Sitio web donde comparto mis proyectos personales y más. ¡Visítalo! [Andrés Giménez Blog](https://www.andresgimenez.es/)
 
 
 
 ### Mis estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ginjol83&show_icons=true&theme=radical) ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ginjol83&layout=compact&theme=radical)
--->
-### Lenguajes más utilizados
 
-Java, javascript
+### Tecnologías más utilizadas
+SQL,Git,Java,JUnit,Maven,Gradle,Spring Boot,Angular
+
 
 ¡Gracias por visitar mi perfil de GitHub! 
 
